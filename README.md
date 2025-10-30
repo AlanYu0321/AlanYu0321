@@ -8,7 +8,7 @@
 ---
 
 ### 🏆 Leadership & Achievements  
-- 💡 Developed API automation system for credit extension @ E.SUN Bank  
+- 💡 Developed API & Job for automation system @ E.SUN Bank  
 - 🏅 Completed AI & Deep Learning coursework  
 - 🧩 Team Lead – Data Engineering Capstone (Spark + MinIO + MySQL pipeline)  
 
