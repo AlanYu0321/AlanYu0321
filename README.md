@@ -1,9 +1,9 @@
 ### Hi there 👋 I'm Alan Yu  
 
-🎓 Master's in Information Technology Management @ Illinois Tech
-💻 Backend Software Engineer 
-☁️ Interested in Cloud Computing, Data Analytics, and AI Applications  
-🚀 Currently working on: MovieLens Multi-Criteria Recommender System (Spark + PyTorch + MySQL)
+- 🎓 Master's in Information Technology Management @ Illinois Tech
+- 💻 Backend Software Engineer 
+- ☁️ Interested in Cloud Computing, Data Analytics, and AI Applications  
+- 🚀 Currently working on: MovieLens Multi-Criteria Recommender System (Spark + PyTorch + MySQL)
 
 ---
 
