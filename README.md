@@ -1,14 +1,14 @@
 ### Hi there 👋 I'm Alan Yu  
 
-🎓 Master's in Information Technology Management @ Illinois Tech (Class of 2025)  
-💻 Backend Software Engineer @ E.SUN Commercial Bank  
+🎓 Master's in Information Technology Management @ Illinois Tech
+💻 Backend Software Engineer 
 ☁️ Interested in Cloud Computing, Data Analytics, and AI Applications  
 🚀 Currently working on: MovieLens Multi-Criteria Recommender System (Spark + PyTorch + MySQL)
 
 ---
 
 ### 🏆 Leadership & Achievements  
-- 💡 Developed API & Job for automation system @ E.SUN Bank  
+- 💡 Developed API & Job for automation system
 - 🏅 Completed AI & Deep Learning coursework  
 - 🧩 Team Lead – Data Engineering Capstone (Spark + MinIO + MySQL pipeline)  
 
